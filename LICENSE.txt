@@ -1,0 +1,26 @@
+LICENSE
+All Rights Reserved
+===================
+
+Copyright (c) 2026 LKCSE78
+
+No license has been granted for this software.
+
+Unless the copyright owner provides a separate written license or adds an
+open-source license to this repository, all rights are reserved. No permission
+is granted by this notice to copy, modify, publish, distribute, sublicense,
+or use this software, in whole or in part, beyond rights that may exist under
+applicable law.
+
+The source code is provided for review purposes only. This notice does not
+grant permission to use the software for clinical or medical decision-making.
+
+For permission to use, modify, or redistribute this software, contact the
+repository owner through:
+https://github.com/LKCSE78/FV2
+
+IMPORTANT:
+This is a restrictive default notice, not an open-source license. If you intend
+the project to be open source, choose an appropriate license (for example, MIT
+or Apache-2.0), review its terms, and replace this file with the complete
+official license text before publishing.
